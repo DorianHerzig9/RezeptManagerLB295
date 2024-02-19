@@ -1,0 +1,6 @@
+@Rezeptmanager_HostAddress = http://localhost:5186
+
+GET {{Rezeptmanager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
